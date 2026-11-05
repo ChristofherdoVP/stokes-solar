@@ -10,5 +10,5 @@ version: "1.0.0"
 date-released: "2026-11-05"
 license: MIT
 repository-code: "https://github.com/ChristofherdoVP/stokes-solar"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.23981088"
 keywords: [espectropolarimetria, parâmetros de Stokes, efeito Zeeman, campo magnético solar, Milne-Eddington, Python]
