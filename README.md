@@ -1,5 +1,7 @@
 # stokes-solar
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23981088.svg)](https://doi.org/10.5281/zenodo.23981088)
+
 Código e figuras do artigo **"Espectropolarimetria solar: dos parâmetros de Stokes ao campo magnético fotosférico, com Python"** (em preparação para a Revista Brasileira de Ensino de Física).
 
 ## Conteúdo
@@ -37,6 +39,6 @@ jupyter lab notebooks/
 
 ## Como citar
 
-Veja `CITATION.cff`. DOI do Zenodo: [a definir].
+Veja `CITATION.cff`. DOI do Zenodo: [10.5281/zenodo.23981088](https://doi.org/10.5281/zenodo.23981088).
 
 Licença MIT.
